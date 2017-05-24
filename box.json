@@ -1,0 +1,86 @@
+{
+    "name":"CK Editor Word Count Plugin for Contentbox 3.x",
+    "version":"1.0.0",
+    "author":"Akitogo - Dmitry Romanchuk",
+    "location":"https://github.com/akitogo/CKWordCount/archive/master.zip",
+    "directory":"",
+    "createPackageDirectory":true,
+    "packageDirectory":"",
+    "homepage":"https://github.com/akitogo/CKWordCount",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/akitogo/CKWordCount.git"
+    },
+    "bugs":"",
+    "slug":"CKWordCount",
+    "shortDescription":"Adds Word Count Plugin for CK Editor to Contentbox 3.x",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-modules",
+    "keywords":"Captcha",
+    "private":false,
+    "engines":[
+        {
+            "type":"",
+            "version":""
+        }
+    ],
+    "defaultEngine":"",
+    "defaultPort":0,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"Apache2",
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "scripts":{
+        
+    },
+    "ignore":[
+        
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":[
+            
+        ],
+        "reporter":"",
+        "reporterResults":"",
+        "bundles":[
+            ""
+        ],
+        "directory":{
+            "mapping":"",
+            "recurse":true
+        },
+        "watchers":[
+            
+        ],
+        "notify":{
+            "emails":[
+                
+            ],
+            "growl":"",
+            "URL":""
+        }
+    }
+}
