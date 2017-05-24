@@ -10,7 +10,7 @@ box install CKWordCount
 ## What does it do?
 A word and char count is added to CKEditor on the bottom of the editor Window.
 
-Adds as well a configurable module to the Module Menue, you can enable/disable counts for char/word/paragraph/ and set limits for all mentioned before.
+Adds as well a configurable module to the Module Menu, you can enable/disable counts for char/word/paragraph/ and set limits for all mentioned before.
 
 Make sure that the Plugin directory of CKEditor is writeable for Coldfusion/Lucee
 
